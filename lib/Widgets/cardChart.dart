@@ -15,7 +15,7 @@ final String title;
   CardChart({
     Key key,
     this.title,
-    this.number,
+    this.number,  
     this.name,
     this.deltaNumberColor,
     this.numberColor,
